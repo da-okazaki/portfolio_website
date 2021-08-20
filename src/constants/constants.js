@@ -44,3 +44,11 @@ export const TimeLineData = [
   { year: 2020, text: 'Shared my projects with the world', },
   { year: 2021, text: 'Started my own platform', },
 ];
+
+export const SocialAccount = {
+  github: 'https://github.com/da-okazaki/',
+  facebook: 'https://www.facebook.com/daichi.okazaki1016/',
+  instagram: 'https://www.instagram.com/daichi.okazaki/',
+  linkedin: 'https://www.linkedin.com/in/da-okazaki-1016/',
+  dribbble: 'https://www.'
+}
